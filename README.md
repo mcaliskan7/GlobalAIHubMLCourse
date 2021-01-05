@@ -1,6 +1,6 @@
 # GlobalAIHubMLCourse
 
-![Global AI Hub](logo.png)
+![Global AI Hub](images/logo.png)
 
 4-11 January 2021 - Global AI Hub / Introduction to Machine Learning 
 
