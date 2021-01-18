@@ -6,3 +6,5 @@
 
 Merve ÇALIŞKAN\
 evrem99@hotmail.com
+
+![Global AI Hub Machine Learning Certificate](images/machinelearning.png)
